@@ -216,6 +216,7 @@
               type: 'line',
               model: this.card.model,
               series: this.card.series,
+              dataset: this.card.dataset,
               options: this.card.options,
               join: this.card.join,
               col_xaxis: this.card.col_xaxis,
